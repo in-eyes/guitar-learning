@@ -1,6 +1,9 @@
 export default {
   pages: [
-    'pages/index/index'
+    'pages/Home/index',
+    'pages/Note/index',
+    'pages/Interval/index',
+    'pages/BaseChords/index',
   ],
   window: {
     backgroundTextStyle: 'light',
