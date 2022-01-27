@@ -36,7 +36,7 @@ export default function Note() {
     wx.showModal({
       showCancel: false,
       confirmText: '我知道了',
-      title: computedFret,
+      title: computedFret(),
       content: `指板音: ${ans}`,
       confirmColor: '#6190e8',
     });

@@ -1,3 +1,3 @@
 export default {
-  navigationBarTitleText: '吉他学习'
+  navigationBarTitleText: '学学吉Ta'
 }
